@@ -1,63 +1,56 @@
-<img align="right" src="https://hits.sh/github.com/bytebloomclub.svg?style=flat-square" alt="Visitor Count"/>
+# CC-VictorCuaresma 👨‍💻✨
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ByteBloomClub!;" />
-</h1>
+¡Bienvenido a mi perfil de GitHub! 🚀  
+Soy **Victor Cuaresma**, estudiante de **I.E.S. Valle Grande** en la carrera de **Análisis de Sistemas**. Aquí encontrarás mis proyectos y repositorios relacionados con diversas áreas de la tecnología. 🌟
 
-<h3 align="center">Lanzado en diciembre de 2024, nuestro objetivo es brindar servicios personalizados y eficientes para impulsar el crecimiento de tus proyectos. 
-    ¡Únete a nosotros y crece con Byte Bloom Club! </h3>
+---
 
-<br/>
+## 🚀 ¿Qué puedes encontrar aquí?
 
-<div align="center">
- 
- 🔭 I’m currently working on **ByteBloomClub**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+En mi perfil, comparto proyectos desarrollados como parte de mi aprendizaje y exploración en el mundo de la tecnología. Algunos de los temas que encontrarás incluyen:
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/bytebloomclub/issues)**
+- 📱 **Aplicaciones móviles**: Proyectos enfocados en el desarrollo de apps funcionales y modernas.
+- 🌐 **Páginas web**: Diseño y desarrollo de sitios web dinámicos y responsivos.
+- 🤖 **Inteligencia Artificial**: Implementaciones de IA para resolver problemas reales.
+- 🗄️ **Bases de datos**: Gestión, diseño y consultas avanzadas en bases de datos.
+- ⚙️ **Otros proyectos**: Experimentos, herramientas y más.
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+---
 
-</div>
+## 📂 Repositorios destacados
 
- 
-<div align="center"> 
-  <a href="ByteBloomClub@hotmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/ByteBloomClub" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
-  </a>
-</div>
+🎯 **Explora mis proyectos:** [Mis repositorios](https://github.com/CC-VictorCuaresma?tab=repositories)
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
+Algunos ejemplos de lo que puedes encontrar:
+- **Proyectos de apps móviles** con Flutter, React Native, entre otros.
+- **Páginas web dinámicas** usando tecnologías como HTML, CSS, JavaScript, y frameworks modernos como React.
+- **Modelos de IA** aplicados a diferentes casos prácticos.
+- **Diseño y consultas** en bases de datos SQL y NoSQL.
 
-<br/>
-<hr/>
-<hr/>
+---
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align="center">
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=bytebloomclub&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=bytebloomclub&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=bytebloomclub&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+## 🛠️ Tecnologías que manejo
 
-<br/><br/>
+- Lenguajes: JavaScript, Python, SQL, Dart, y más.
+- Frameworks: React, Flutter, Node.js.
+- Bases de datos: MySQL, MongoDB, Firebase.
+- Herramientas: Git, Visual Studio Code, Postman, etc.
 
-<hr/>
+---
 
-<br/>
+## 📚 Sobre mí
+
+Soy un apasionado de la tecnología y el desarrollo de software. Siempre estoy aprendiendo nuevas herramientas y técnicas para mejorar mis habilidades y crear soluciones innovadoras. 🚀
+
+---
+
+## 🤝 Conéctate conmigo
+
+- 💼 [Mi perfil en GitHub](https://github.com/CC-VictorCuaresma)
+- 📧 **Correo:** victor.cuaresma@vallegrande.edu.pe  
+- 🌐 **Sitio web personal:** [victorcuaresma.dev](https://victorcuaresma.dev)
+
+---
+
+¡Gracias por visitar mi perfil! 😊  
+No dudes en explorar mis proyectos y contactarme si tienes alguna pregunta o sugerencia. 🚀
